@@ -1,0 +1,13 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Simple weather app using React and Parcel",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "Poonam Rout",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
